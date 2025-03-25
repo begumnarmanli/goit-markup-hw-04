@@ -226,6 +226,7 @@ nav a {
     gap: 24px;
     flex-wrap: wrap;
     padding: 0 15px;
+    margin-bottom: 111px
 }
 
 .feature {
