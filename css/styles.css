@@ -375,16 +375,7 @@ nav a {
     font-weight: 500;
     color: #2e2f42;
     margin: 32px 16px 8px 16px;
-    text-align: left;
-}
-
-.portfolio-list p {
-    font-family: var(--font-family);
-    line-height: 1.5;
-    font-size: 16px;
-    margin: 0 16px 32px 16px;
-    color: #434455;
-    text-align: left;
+    text-align: center;
 }
 
 .section-four h2 {
@@ -490,7 +481,13 @@ nav a {
     border: 1px solid #e7e9fc;
     border-top: none;
   }
-  
+  .card-wrap .text {
+    font-family: var(--font-family);
+    line-height: 1.5;
+    font-size: 16px;
+    color: #434455;
+    text-align: center;
+}
   .section-ul .list .subtitle {
     font-weight: 500;
     font-size: 20px;
