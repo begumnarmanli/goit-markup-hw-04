@@ -74,7 +74,10 @@ html, body {
     /* margin-left: auto; */
     margin-left: 332px;
 }
+.contact :hover {
+    color: #4d5ae5;
 
+}
 h2 {
     font-family: var(--second-family);
     font-size: 16px; 
@@ -118,6 +121,10 @@ nav a {
     font-weight: bold;
 }
 
+.nav-menu :hover {
+    color: #4d5ae5;
+
+}
 .mail{
     font-family: var(--font-family);
     color: #434455;
@@ -487,7 +494,14 @@ nav a {
     font-size: 16px;
     color: #434455;
     text-align: center;
+    margin-bottom: 32px;
+    padding-left: 16px;
 }
+.card-wrap .subtitle,
+.card-wrap .text {
+    text-align: left;
+}
+
   .section-ul .list .subtitle {
     font-weight: 500;
     font-size: 20px;
