@@ -421,9 +421,6 @@ nav a {
 }
 
 .portfolio-list li div {
-    border-left: 2px solid #E7E9FC;
-    border-right: 2px solid #E7E9FC;
-    border-bottom: 2px solid #E7E9FC;
     padding: 1px;
 }
 .section-ul.four .list.last {
